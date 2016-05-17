@@ -62,6 +62,18 @@ Some types of sub-populations: Ethnic group, socio-economic status, geographical
 
 At root, this problem is due to an incorrect conceptual model underlying the analysis. But the point here is that the effect of the flawed model is effectively invisible to the researcher using diagnostic techniques currently available. The problem only becomse visible once we update the model to include the relevant sub-group, however there would be no reason to include the sub-group in data collection or modeling unless we have evidence leading us to believe that this sub-group is relevant. Evidence which can't exist in a quantitative form until we have included the sub-group.
 
-### Interactions can increase inequality
+So if these types of sub-group problems can be completely invisible, then how are we to address them? Suggestions:
 
-Can also be thought of as leverage.
+ * Explicitly and critically model the process under study.
+ * Publish clear modeling assumptions for feedback and criticism. Other researchers with more knowledge of a particular sub-group or modeling sub-domain may be able to highlight possible sub-group issues.
+ * Pursue alternative approaches to the problem, including qualitative methods that may be better suited to identifying relevant sub-groups
+ 
+An example: It is fairly well-known that compounds in grapefruit juice can interfere with the metabolism of certain types of statins. How was this discovered? ...  http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2849981/
+
+### Equity vs. Equality framework
+
+More needs to be invested in disadvantaged people to bring them up to the same level as would need to be invested in a more advantaged person.
+
+### Leverage
+
+Example: It’s a lot easier to shop cheap if you can buy in bulk and store the food in your massive extra freezer than if you can’t even afford to have a refrigerator.
